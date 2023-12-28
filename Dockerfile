@@ -10,7 +10,6 @@ RUN apt-get update && apt-get install -y \
 
 RUN git clone https://github.com/haziraf/Automl-Streamlit-WebApp.git .
 
-COPY ./requirements.txt ./
 RUN pip install --no-cache-dir --upgrade -r requirements.txt
 
 EXPOSE 8501
