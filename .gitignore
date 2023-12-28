@@ -1,0 +1,7 @@
+#ignore this file
+/logs.log
+/src/lib/modelling/supervised/__pycache__
+/src/lib/modelling/unsupervised/__pycache__
+/src/lib/prediction/supervised/__pycache__
+/src/lib/prediction/unsupervised/__pycache__
+/src/lib/test/
