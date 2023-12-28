@@ -7,7 +7,7 @@ st.set_page_config(
     layout="centered", 
     initial_sidebar_state="expanded",
     menu_items={
-        "About": "[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/hazirafidi)",
+        "About": "[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/haziraf)",
     })
 
 st.sidebar.markdown(
